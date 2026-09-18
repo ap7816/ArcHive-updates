@@ -1,15 +1,15 @@
 {
-  "version": "3.0.0",
+  "version": "4.0.0",
   "notes": "Voir les commits pour les changements.",
-  "pub_date": "2026-09-09T13:30:10.504Z",
+  "pub_date": "2026-09-18T07:17:51.295Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnpOMUNUd3U0NXdDaVk4bUloVUdUTUJINnVic1crcjE3NDVKb2FDd1pFN01VNVByS0wvOHFIN1c1NWVzVkpZTFJiUUkyL21uYk5HYVR1NHRUYlNkakhDWGxjZDVBYndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTYwNjA2CWZpbGU6Q2Fzc2luaV8zLjAuMF94NjQtc2V0dXAuZXhlCkxUOWZEdlhERFlOR3JEdEZ3eHVmbi8zbnI2aXl0OUcyZHBQTmY5d1c0VXFmdFRjeG5DNS8vdVJJcE5qRkpWR3VNNkZZOWVaTDVnTVl5LzRhK0ZnV0JRPT0K",
-      "url": "https://github.com/ap7816/ArcHive-updates/releases/download/v3.0.0/Cassini_3.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnpOMUNUd3U0NXp4azNVQmhyN3J1eFlqS2YrazlCekgvRmNaLzMvWVpKc2pQTGhjRHNJdHcvc2dqd2EyTERPdTVic2NUb2FQZWloNDQ4WFlxRjNPbWxCQXJNK3lVWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzE1ODY2CWZpbGU6Q2Fzc2luaV80LjAuMF94NjQtc2V0dXAuZXhlClZvNUV0ZUxxb2JDSkFrZG5MT0hIOGExampLMmwwNGFkWHNwR3I2ZVZESnEyVFBvK2R4akNZS2tSY3J5Szd3b2RSQWtSTFJScy81Zkx0azlPWDhCekRBPT0K",
+      "url": "https://github.com/ap7816/ArcHive-updates/releases/download/v4.0.0/Cassini_4.0.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnpOMUNUd3U0NXdDaVk4bUloVUdUTUJINnVic1crcjE3NDVKb2FDd1pFN01VNVByS0wvOHFIN1c1NWVzVkpZTFJiUUkyL21uYk5HYVR1NHRUYlNkakhDWGxjZDVBYndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTYwNjA2CWZpbGU6Q2Fzc2luaV8zLjAuMF94NjQtc2V0dXAuZXhlCkxUOWZEdlhERFlOR3JEdEZ3eHVmbi8zbnI2aXl0OUcyZHBQTmY5d1c0VXFmdFRjeG5DNS8vdVJJcE5qRkpWR3VNNkZZOWVaTDVnTVl5LzRhK0ZnV0JRPT0K",
-      "url": "https://github.com/ap7816/ArcHive-updates/releases/download/v3.0.0/Cassini_3.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnpOMUNUd3U0NXp4azNVQmhyN3J1eFlqS2YrazlCekgvRmNaLzMvWVpKc2pQTGhjRHNJdHcvc2dqd2EyTERPdTVic2NUb2FQZWloNDQ4WFlxRjNPbWxCQXJNK3lVWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzE1ODY2CWZpbGU6Q2Fzc2luaV80LjAuMF94NjQtc2V0dXAuZXhlClZvNUV0ZUxxb2JDSkFrZG5MT0hIOGExampLMmwwNGFkWHNwR3I2ZVZESnEyVFBvK2R4akNZS2tSY3J5Szd3b2RSQWtSTFJScy81Zkx0azlPWDhCekRBPT0K",
+      "url": "https://github.com/ap7816/ArcHive-updates/releases/download/v4.0.0/Cassini_4.0.0_x64-setup.exe"
     }
   }
 }
